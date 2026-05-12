@@ -1,0 +1,15 @@
+litserve>=0.2.8
+rembg[cpu]
+Pillow
+numpy
+opencv-python
+librosa
+scipy
+tqdm
+numba
+
+# Install the GPU PyTorch build that matches your Lightning Studio image.
+# Many Lightning GPU images already include torch/torchvision.
+torch
+torchvision
+
